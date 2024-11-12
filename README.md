@@ -1,25 +1,27 @@
-<!-- Intro -->
+<!-- Intro Section -->
 <h1 align="center">Hi there 👋, I'm Ajay Kumar</h1>
 <h3 align="center">🚀 A Passionate Full Stack Developer from India 🚀</h3>
 
-<!-- Animated Profile Header -->
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C1FF&width=435&lines=Full+Stack+Developer;MERN+Stack+Specialist;Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C1FF&width=600&lines=Full+Stack+Developer+%7C+JavaScript+%7C+React+%7C+Node.js;MERN+Stack+Enthusiast+%7C+Nest.js+%7C+Express.js+Expert;Team+Collaborator+and+Problem+Solver+%7C+Always+Learning!" alt="Typing SVG" />
 </p>
 
-<!-- Trophy Display -->
+<!-- GitHub Profile Trophy -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ajay7906&theme=darkhub&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="ajay7906" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ajay7906&theme=onedark&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
-<!-- About -->
-- 🔭 I’m currently working on **AI-driven Projects**
-- 🌱 I’m currently diving into **Next.js Integrated AI**
-- 💬 Ask me about **React, Node, Express, MongoDB, and Next.js**
-- 📫 How to reach me **aks969014@gmail.com**
-- ⚡ Fun fact: **I have a good sense of humor!**
+<!-- About Section -->
+- 🔭 Currently focused on building **AI-powered applications**
+- 🌱 Learning and working with **Next.js** and **Nest.js**
+- 💬 Ask me about **React, Node.js, Nest.js, Express.js, and MongoDB**
+- 📫 Reach out at **aks969014@gmail.com**
+- ⚡ Fun fact: **I’m always up for a new coding challenge!**
 
-<!-- Social Links -->
+---
+
+<!-- Connect Section -->
 <h3 align="left">🌐 Connect with Me</h3>
 <p align="left">
   <a href="https://linkedin.com/in/ajaykumarcse" target="blank">
@@ -33,45 +35,65 @@
   </a>
 </p>
 
-<!-- Skills -->
+---
+
+<!-- Skills Section -->
 <h3 align="left">🛠️ Languages & Tools</h3>
+
+#### Languages:
 <p align="left">
-  <!-- Core Tech Stack -->
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="html5" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="css3" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/919/919832.png" alt="typescript" width="40" height="40"/> </a>
-  
-  <!-- Backend & Database -->
-  <a href="https://nodejs.org" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="express" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" alt="mysql" width="40" height="40"/> </a>
-
-  <!-- Frontend Frameworks -->
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" alt="react" width="40" height="40"/> </a>
-  <a href="https://redux.js.org" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/919/919852.png" alt="redux" width="40" height="40"/> </a>
-  <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/919/919828.png" alt="tailwindcss" width="40" height="40"/> </a>
-
-  <!-- Additional Skills -->
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/2111/2111288.png" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="figma" width="40" height="40"/> </a>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript" width="40" height="40"/> 
+  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="40" height="40"/> 
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919830.png" alt="SQL" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919832.png" alt="TypeScript" width="40" height="40"/>
 </p>
 
-<!-- Support -->
-<h3 align="left">💖 Support Me:</h3>
-<p><a href="https://www.buymeacoffee.com/ajay7906"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee ajay7906" /></a></p><br><br>
+#### Technologies:
+<p align="left">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" alt="React" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="Express.js" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919842.png" alt="Mongoose" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5969/5969022.png" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" alt="Socket.io" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="MUI" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/ant-design.svg" alt="Ant Design" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" width="40" height="40"/>
+</p>
+
+#### Tools:
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="40" height="40"/>
+  <img src="https://img.icons8.com/dusk/64/000000/postman-api.png" alt="Postman" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="Figma" width="40" height="40"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-adobe-xd-3553152-2971839.png" alt="Adobe XD" width="40" height="40"/>
+</p>
+
+#### Other Skills:
+- **Data Structures and Algorithms**
+- **Problem Solving**
+- **Team Collaboration**
+- **Deployment (Vercel, Cyber Panel)**
+
+---
 
 <!-- GitHub Stats -->
+<h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajay7906&show_icons=true&hide_border=true&theme=radical" alt="ajay7906 stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay7906&show_icons=true&hide_border=true&layout=compact&theme=radical" alt="Top Langs"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay7906&show_icons=true&hide_border=true&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
 
-<!-- GitHub Streak Stats -->
+<!-- GitHub Streak -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajay7906&theme=radical&hide_border=true" alt="ajay7906" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajay7906&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <!-- Fun Quote -->
@@ -79,7 +101,11 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote">
 </p>
 
-<!-- Footer -->
+<!-- Support Section -->
+<h3 align="left">💖 Support My Work:</h3>
+<p><a href="https://www.buymeacoffee.com/ajay7906"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee ajay7906" /></a></p>
+
+<!-- Footer Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajay7906&label=Profile%20views&color=0e75b6&style=flat" alt="ajay7906" /> 
+  <img src="https://komarev.com/ghpvc/?username=ajay7906&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Counter" />
 </p>
