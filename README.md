@@ -74,9 +74,4 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Hack&duration=3000&pause=1000&color=22C32C&width=435&lines=Happy+Coding+%3C%2F%3E+;const+AI+%3D+%22The+Future+of+Code%22%3B" alt="Code Footer" />
 </p>
 
-<style>
-  body {
-    background-color: #0a0a0a;
-    color: #00ff00;
-  }
-</style>
+
