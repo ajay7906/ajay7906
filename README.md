@@ -1,67 +1,85 @@
-## Hi there 👋
+<!-- Intro -->
+<h1 align="center">Hi there 👋, I'm Ajay Kumar</h1>
+<h3 align="center">🚀 A Passionate Full Stack Developer from India 🚀</h3>
 
-<h1 align="center" style="font-family: monospace;">👨‍💻 Welcome to the Codeverse 👨‍💻</h1>
-<h3 align="center" style="font-family: monospace; color: #00FF00;">I'm <span style="color: #FF1493;">Ajay Kumar</span>, a passionate Full Stack Developer from India</h3>
-
+<!-- Animated Profile Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00FF00&size=22&center=true&vCenter=true&width=500&lines=Hello%2C+World!+🌍;I'm+a+MERN+Stack+Dev+💻;Let's+code+something+amazing!+🚀;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C1FF&width=435&lines=Full+Stack+Developer;MERN+Stack+Specialist;Always+Learning+New+Tech" alt="Typing SVG" />
 </p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ajay7906&theme=radical&margin-w=15&margin-h=15&column=7" alt="ajay7906" />
-</div>
+<!-- Trophy Display -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ajay7906&theme=darkhub&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="ajay7906" />
+</p>
 
-- 🔭 I’m currently working on **AI Project**
-
-- 🌱 I’m currently learning **NextJs Integrated AI**
-
-- 💬 Ask me about **React, Node, Express, MongoDB, Next.js**
-
+<!-- About -->
+- 🔭 I’m currently working on **AI-driven Projects**
+- 🌱 I’m currently diving into **Next.js Integrated AI**
+- 💬 Ask me about **React, Node, Express, MongoDB, and Next.js**
 - 📫 How to reach me **aks969014@gmail.com**
+- ⚡ Fun fact: **I have a good sense of humor!**
 
-- ⚡ Fun fact **I'm both funny and tech-savvy!**
+<!-- Social Links -->
+<h3 align="left">🌐 Connect with Me</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/ajaykumarcse" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="30" />
+  </a>
+  <a href="https://www.instagram.com/ajay7906saini/" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733558.png" alt="Instagram" height="30" width="30" />
+  </a>
+  <a href="https://x.com/Ajay_Saini_7906" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" height="30" width="30" />
+  </a>
+</p>
 
-<h2 align="center" style="font-family: monospace;">🛠️ Connect With Me 🛠️</h2>
+<!-- Skills -->
+<h3 align="left">🛠️ Languages & Tools</h3>
+<p align="left">
+  <!-- Core Tech Stack -->
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="html5" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="css3" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/919/919832.png" alt="typescript" width="40" height="40"/> </a>
+  
+  <!-- Backend & Database -->
+  <a href="https://nodejs.org" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://expressjs.com" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="express" width="40" height="40"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" alt="mongodb" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" alt="mysql" width="40" height="40"/> </a>
 
+  <!-- Frontend Frameworks -->
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" alt="react" width="40" height="40"/> </a>
+  <a href="https://redux.js.org" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/919/919852.png" alt="redux" width="40" height="40"/> </a>
+  <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/919/919828.png" alt="tailwindcss" width="40" height="40"/> </a>
+
+  <!-- Additional Skills -->
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/2111/2111288.png" alt="git" width="40" height="40"/> </a>
+  <a href="https://www.figma.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="figma" width="40" height="40"/> </a>
+</p>
+
+<!-- Support -->
+<h3 align="left">💖 Support Me:</h3>
+<p><a href="https://www.buymeacoffee.com/ajay7906"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee ajay7906" /></a></p><br><br>
+
+<!-- GitHub Stats -->
 <div align="center">
-  <a href="https://linkedin.com/in/ajaykumarcse" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="ajaykumarcse" /></a>
-  <a href="https://www.instagram.com/ajay7906saini/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="ajay7906saini" /></a>
-  <a href="https://x.com/Ajay_Saini_7906" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Ajay_Saini_7906" /></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajay7906&show_icons=true&hide_border=true&theme=radical" alt="ajay7906 stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay7906&show_icons=true&hide_border=true&layout=compact&theme=radical" alt="Top Langs"/>
 </div>
 
-<h2 align="center" style="font-family: monospace;">🔧 Languages & Tools 🔧</h2>
+<!-- GitHub Streak Stats -->
 <p align="center">
-  <a href="https://babeljs.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-  <a href="https://graphql.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajay7906&theme=radical&hide_border=true" alt="ajay7906" />
 </p>
 
-<h2 align="center" style="font-family: monospace;">📊 My GitHub Stats 📊</h2>
-
+<!-- Fun Quote -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajay7906&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="ajay7906" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote">
 </p>
 
+<!-- Footer -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajay7906&show_icons=true&locale=en&theme=highcontrast" alt="ajay7906" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajay7906&theme=highcontrast" alt="ajay7906" />
-</p>
-
-<h2 align="center" style="font-family: monospace;">☕ Support Me ☕</h2>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/ajay7906" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee ajay7906" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=ajay7906&label=Profile%20views&color=0e75b6&style=flat" alt="ajay7906" /> 
 </p>
