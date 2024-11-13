@@ -1,109 +1,178 @@
-<!-- Header Section with Cyber Theme -->
+<!-- Animated Terminal Header -->
+<div align="center">
+
+```ascii
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║   ██████╗ ██████╗ ███████╗██████╗  █████╗ ████████╗██╗ ██████╗ ███╗   ██║
+║  ██╔═══██╗██╔══██╗██╔════╝██╔══██╗██╔══██╗╚══██╔══╝██║██╔═══██╗████╗  ██║
+║  ██║   ██║██████╔╝█████╗  ██████╔╝███████║   ██║   ██║██║   ██║██╔██╗ ██║
+║  ██║   ██║██╔═══╝ ██╔══╝  ██╔══██╗██╔══██║   ██║   ██║██║   ██║██║╚██╗██║
+║  ╚██████╔╝██║     ███████╗██║  ██║██║  ██║   ██║   ██║╚██████╔╝██║ ╚████║
+║   ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝ ╚═════╝ ╚═╝  ╚═══║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+```
+
+<!-- Dynamic SVG Typing -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=INITIATING+SECURE+CONNECTION...;WELCOME+TO+AJAY+KUMAR'S+TERMINAL)](https://git.io/typing-svg)
+
+<!-- Cyberpunk-style Status Indicators -->
+```css
+STATUS: ONLINE | LOCATION: INDIA | MISSION: FULL STACK DEVELOPMENT
+SECURITY CLEARANCE: LEVEL 5 | SYSTEM: OPERATIONAL | MODE: ATTACK
+```
+
+<!-- Matrix Rain Animation Reference -->
+<img src="https://github.com/ajay7906/ajay7906/blob/output/github-contribution-grid-snake-dark.svg" width="100%">
+
+</div>
+
+<!-- Mission Statement -->
 <div align="center">
   
 ```ascii
-+------------------------------------------------------------------+
-|                      SYSTEM STATUS: ONLINE                         |
-|                    INITIALIZING PROFILE...                         |
-+------------------------------------------------------------------+
+╔══════════════════════ MISSION OBJECTIVES ══════════════════════╗
+║  > Architecting Scalable Solutions                            ║
+║  > Implementing AI-Powered Systems                            ║
+║  > Optimizing Performance Metrics                             ║
+║  > Securing Digital Infrastructure                            ║
+╚═════════════════════════════════════════════════════════════════╝
 ```
-
-# `> whoami`
-### `ajay.kumar@dev:~$ echo "Full Stack Developer | Security Enthusiast"`
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&width=600&lines=Infiltrating+the+Stack%3A+MERN+%7C+Next.js+%7C+Nest.js;Executing+AI-Powered+Applications;System+Status%3A+Always+Learning+%7C+Always+Coding)](https://git.io/typing-svg)
 </div>
 
-<!-- Matrix-style Banner -->
+<!-- Core Skills Matrix -->
+## `[ CORE SYSTEM CAPABILITIES ]`
+
+```javascript
+const SKILL_MATRIX = {
+    "Frontend_Arsenal": {
+        "Languages": ["JavaScript", "TypeScript", "HTML5", "CSS3"],
+        "Frameworks": ["React.js", "Next.js", "Vue.js"],
+        "State_Management": ["Redux", "Redux Toolkit", "Zustand"],
+        "Styling": ["Tailwind CSS", "Material-UI", "Styled-Components", "Ant Design"],
+        "Build_Tools": ["Webpack", "Vite", "Babel"]
+    },
+    
+    "Backend_Infrastructure": {
+        "Runtime": ["Node.js"],
+        "Frameworks": ["Express.js", "Nest.js"],
+        "API_Specs": ["REST", "GraphQL", "WebSocket"],
+        "Authentication": ["JWT", "OAuth2.0", "Passport.js"],
+        "Task_Processing": ["Bull", "Redis Queue"]
+    },
+    
+    "Database_Systems": {
+        "NoSQL": ["MongoDB", "Firebase"],
+        "SQL": ["MySQL", "PostgreSQL"],
+        "ORM_ODM": ["Mongoose", "Sequelize", "Prisma"],
+        "Caching": ["Redis", "Memcached"]
+    },
+    
+    "DevOps_Protocol": {
+        "Version_Control": ["Git", "GitHub"],
+        "CI_CD": ["GitHub Actions", "Jenkins"],
+        "Containers": ["Docker"],
+        "Cloud_Platforms": ["AWS", "Vercel", "Netlify"],
+        "Testing": ["Jest", "React Testing Library", "Cypress"]
+    },
+    
+    "Architecture_Patterns": {
+        "Design_Patterns": ["MVC", "SOLID", "Microservices"],
+        "State_Management": ["Flux", "Redux Flow"],
+        "API_Design": ["RESTful", "GraphQL Schema"],
+        "Security": ["OWASP", "Authentication", "Authorization"]
+    }
+};
+```
+
+<!-- Skill Progress Bars -->
+## `[ SKILL METRICS ]`
+```python
+Backend Development   [█████████████████████░░] 90%
+Frontend Development  [████████████████████░░░] 85%
+Database Management  [███████████████████░░░░] 80%
+System Architecture  [██████████████████░░░░░] 75%
+DevOps & Cloud       [████████████████░░░░░░░] 70%
+```
+
+<!-- GitHub Stats Section -->
+## `[ SYSTEM ANALYTICS ]`
 <div align="center">
-  
-```ascii
-┌───────────────────────────────────────────┐
-│⚡ SYSTEM CAPABILITIES                     │
-│  ▪ Full Stack Development                 │
-│  ▪ AI Integration                         │
-│  ▪ Secure Application Architecture        │
-│  ▪ Performance Optimization               │
-└───────────────────────────────────────────┘
-```
+
+<details>
+<summary>📊 Click to View Detailed Statistics</summary>
+
+<!-- GitHub Stats Cards with Matrix Theme -->
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=ajay7906&count_private=true&show_icons=true&theme=matrix&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay7906&theme=matrix&hide_border=true&bg_color=0D1117&title_color=00FF00&layout=compact"/>
+
+<!-- GitHub Streak Stats -->
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ajay7906&theme=matrix&hide_border=true&background=0D1117&stroke=00FF00&fire=00FF00&ring=00FF00&currStreakLabel=00FF00"/>
+
+<!-- Contribution Graph -->
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ajay7906&theme=matrix&hide_border=true&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!-- Trophy Display -->
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=ajay7906&theme=matrix&no-frame=true&column=7&margin-w=5&margin-h=5"/>
+</details>
 </div>
 
-<!-- Enhanced Trophy Display -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ajay7906&theme=matrix&no-bg=true&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</p>
-
-<!-- Current Status Section -->
-```bash
-> system_status
+<!-- Recent Projects -->
+## `[ RECENT DEPLOYMENTS ]`
+```css
+PROJECT STATUS: ACTIVE
+SECURITY LEVEL: CLASSIFIED
 ```
-- `[▰▰▰▰▰▰▱▱] Building AI-powered applications`
-- `[▰▰▰▰▰▱▱▱] Mastering Next.js and Nest.js`
-- `[▰▰▰▰▰▰▰▱] Optimizing MERN stack performance`
-- `[▰▰▰▰▰▰▰▰] Ready for new coding challenges`
+<details>
+<summary>🚀 View Project Matrix</summary>
 
-<!-- Contact Information -->
-```bash
-> contact_info
-```
-[![Email](https://img.shields.io/badge/Email-aks969014%40gmail.com-00ff00?style=flat-square&logo=gmail)](mailto:aks969014@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ajaykumarcse-00ff00?style=flat-square&logo=linkedin)](https://linkedin.com/in/ajaykumarcse)
-[![Twitter](https://img.shields.io/badge/Twitter-Ajay__Saini__7906-00ff00?style=flat-square&logo=twitter)](https://x.com/Ajay_Saini_7906)
-[![Instagram](https://img.shields.io/badge/Instagram-ajay7906saini-00ff00?style=flat-square&logo=instagram)](https://www.instagram.com/ajay7906saini/)
+| Project Name | Tech Stack | Status |
+|-------------|------------|---------|
+| AI Chat Application | MERN, OpenAI, Socket.io | `DEPLOYED` |
+| E-Commerce Platform | Next.js, Node.js, MongoDB | `ACTIVE` |
+| Real-time Dashboard | React, D3.js, WebSocket | `TESTING` |
+| Task Management System | MERN, Redux, Material-UI | `DEPLOYED` |
 
-<!-- Tech Stack Matrix -->
-```bash
-> load_tech_stack
-```
-### `// Primary Weapons`
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+</details>
 
-### `// Secondary Weapons`
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Nest.js](https://img.shields.io/badge/Nest.js-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### `// Combat Support`
-![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material-UI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-
-<!-- GitHub Stats with Matrix Theme -->
+<!-- Connect Section -->
+## `[ ESTABLISH CONNECTION ]`
 <div align="center">
-  
-```ascii
-+------------------------------------------------------------------+
-|                        SYSTEM METRICS                              |
-+------------------------------------------------------------------+
-```
 
-<img src="https://github-readme-stats.vercel.app/api?username=ajay7906&show_icons=true&theme=matrix&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ajay7906&theme=matrix&hide_border=true&background=0D1117" alt="GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay7906&theme=matrix&hide_border=true&bg_color=0D1117&layout=compact" alt="Top Languages" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajaykumarcse)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Ajay_Saini_7906)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ajay7906saini/)
+[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aks969014@gmail.com)
+
 </div>
-
-<!-- Activity Graph -->
-[![Ajay's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ajay7906&theme=matrix&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Support Section -->
-```bash
-> initialize_support_protocols
-```
+## `[ SUPPORT PROTOCOLS ]`
 <div align="center">
-  
-[!["Buy Me A Coffee"](https://img.shields.io/badge/Buy_Me_A_Coffee-Support_My_Work-00ff00?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/ajay7906)
+
+[!["Buy Me A Coffee"](https://img.shields.io/badge/Buy_Me_A_Coffee-Support_Development-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ajay7906)
+
 </div>
 
-<!-- Profile Views Counter -->
+<!-- Footer -->
 <div align="center">
-  
+
 ```ascii
-VISITOR COUNT: [${VISITORS}]
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                     VISITOR COUNT: INCREMENTING...                         ║
+╚═══════════════════════════════════════════════════════════════════════════╝
 ```
 ![Profile Views](https://komarev.com/ghpvc/?username=ajay7906&color=00ff00&style=flat-square)
+
 </div>
+
+<!-- Hidden Extras -->
+<!--
+Tip: Add this to your repository to enable the snake animation:
+- name: Generate Snake Animation
+  uses: Platane/snk@master
+  with:
+    github_user_name: ajay7906
+    svg_out_path: dist/github-contribution-grid-snake-dark.svg
+-->
