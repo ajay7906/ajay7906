@@ -1,184 +1,108 @@
-<!-- Matrix Boot Sequence -->
-```css
-INITIALIZING SECURE BOOT SEQUENCE...
-[■■■■■■■■■■] 100%
-ACCESS GRANTED: WELCOME TO AJAY KUMAR'S TERMINAL
-```
-
-<!-- Cyberpunk Header -->
 <div align="center">
+  
+  ![Hacker Banner](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
-```ascii
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣷⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⡀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⢀⣴⣿⣿⣿⠟⠛⠉⠉⠉⠉⠉⠉⠙⠛⠿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⠛⠛⠛⠛⠛⠻⢿⣿⣦⡀⠀⠀⠀⠀
-⠀⠀⠀⢠⣾⣿⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⠿⠿⠛⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣿⣦⠀⠀⠀
-⠀⠀⣰⣿⣿⡿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⣿⣷⡀⠀
-⠀⣰⣿⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⣿⣧⠀
-⢠⣿⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⣿⡆
-⣾⣿⣿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣿⣿
-⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿
-█▀▀▄ █▀▀ █░░░█ █▀▀ █░░ █▀▀█ █▀▀█ █▀▀ █▀▀█ 
-█░░█ █▀▀ ▀▄█▄▀ █▀▀ █░░ █░░█ █░░█ █▀▀ █▄▄▀ 
-▀▀▀░ ▀▀▀ ░▀░▀░ ▀▀▀ ▀▀▀ ▀▀▀▀ █▀▀▀ ▀▀▀ ▀░▀▀
-```
+# `> Hello World.exe, I'm Ajay Kumar_`
+### `{ "role": "Full Stack Developer", "location": "India" }`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=700&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&repeat=false&width=1200&height=150&lines=SYSTEM+BREACH+SUCCESSFUL;ACCESSING+MAINFRAME...;DEVELOPER+MODE:+ACTIVATED)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=%7B+%22specialty%22%3A+%22MERN+Stack+Developer%22+%7D;%7B+%22status%22%3A+%22Building+AI-powered+applications%22+%7D;%7B+%22mode%22%3A+%22Always+Learning%2C+Never+Stopping%22+%7D)](https://git.io/typing-svg)
 
 </div>
 
-<!-- System Information -->
-```yaml
-CODENAME: Ajay Kumar
-LOCATION: India
-MISSION: Full Stack Development & System Architecture
-SPECIALIZATION: AI Integration & Security Implementation
-STATUS: Actively Developing Solutions
-```
-
-<!-- Encrypted Skills Matrix -->
-## `[ ENCRYPTED_SKILLS_MATRIX ]`
-<div align="center">
+---
 
 ```js
-decryptSkills([{
-    CRYPTOGRAPHY: {
-        frontend: [React, Next.js, Vue.js],
-        encryption: [TypeScript, JavaScript, HTML5, CSS3],
-        quantum: [Redux, Context, Zustand],
-    },
-    EXPLOITATION: {
-        backend: [Node.js, Express.js, Nest.js],
-        protocols: [REST, GraphQL, WebSocket],
-        security: [JWT, OAuth2.0, Passport],
-    },
-    INFILTRATION: {
-        databases: [MongoDB, MySQL, PostgreSQL],
-        caching: [Redis, Memcached],
-        orm: [Mongoose, Prisma, Sequelize],
-    },
-    SYSTEM_ARCHITECTURE: {
-        cloud: [AWS, GCP, Azure],
-        containers: [Docker, Kubernetes],
-        cicd: [GitHub Actions, Jenkins],
-    }
-}]);
+const ajay = {
+  current_focus: "AI-powered applications",
+  learning: ["Next.js", "Nest.js"],
+  code: ["JavaScript", "TypeScript", "Java", "SQL"],
+  tools: {
+    frontend: ["React", "Redux", "Material-UI", "Tailwind", "Bootstrap", "Ant Design"],
+    backend: ["Node.js", "Express.js", "Nest.js"],
+    database: ["MongoDB", "MySQL"],
+    realtime: ["Socket.io"],
+    devOps: ["Git", "GitHub", "Vercel", "Cyber Panel"],
+    design: ["Figma", "Adobe XD"]
+  },
+  contact: "aks969014@gmail.com"
+};
 ```
 
-<!-- Skill Progress Visualization -->
-```bash
-[~] Initializing Skill Analysis...
-[+] Extracting Metrics...
-```
-
-| Skill | Progress |
-|-------|----------|
-| System Architecture    | [█████████████████████░] 95% |
-| Frontend Exploitation | [████████████████████░░] 90% |
-| Backend Infiltration  | [████████████████████░░] 90% |
-| Database Management   | [███████████████████░░░] 85% |
-| Security Protocols    | [███████████████████░░░] 85% |
-| Cloud Operations      | [██████████████████░░░░] 80% |
-| AI Integration        | [██████████████████░░░░] 80% |
-
-</div>
-
-<!-- Active Projects Interface -->
-## `[ ACTIVE_DEPLOYMENTS ]`
-```sql
-SELECT * FROM projects WHERE status = 'ACTIVE';
-```
 <div align="center">
+  
+### `[ System Status ]`
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajay7906&show_icons=true&theme=cyberpunk&hide_border=true&bg_color=0D1117)](https://github.com/ajay7906)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajay7906&layout=compact&theme=cyberpunk&hide_border=true&bg_color=0D1117)](https://github.com/ajay7906)
 
-| Operation Name | Classification | Tech Stack | Status |
-|---------------|----------------|------------|---------|
-| Project_Alpha | AI Integration | MERN + OpenAI | `DEPLOYED` |
-| Project_Beta | E-Commerce | Next.js + Node.js | `ACTIVE` |
-| Project_Gamma | Real-time Systems | React + Socket.io | `TESTING` |
-| Project_Delta | Security Suite | Express + JWT | `DEPLOYED` |
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ajay7906&theme=cyberpunk&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+
+### `[ Achievement Unlocked ]`
+[![Trophy](https://github-profile-trophy.vercel.app/?username=ajay7906&theme=matrix&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
-<!-- Development Stats -->
-## `[ SYSTEM_ANALYTICS ]`
-<div align="center">
+---
 
-<details>
-<summary>🔓 DECRYPT STATISTICS</summary>
+### `[ Connect_With_Me ]:`
+<div align="left">
 
-<!-- GitHub Activity Matrix -->
-```bash
-[~] Analyzing GitHub Matrix...
-[+] Generating Activity Report...
+```css
+network.connect({
+```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajaykumarcse)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Ajay_Saini_7906)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ajay7906saini/)
+```css
+});
 ```
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=ajay7906&show_icons=true&theme=matrix&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00" alt="GitHub Stats"/>
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajay7906&theme=matrix&hide_border=true&background=0D1117&stroke=00FF00" alt="GitHub Streak"/>
-    </td>
-  </tr>
-</table>
-
-<!-- Contribution Metrics -->
-<img src="https://github-profile-trophy.vercel.app/?username=ajay7906&theme=matrix&no-frame=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies"/>
-
-<!-- Activity Graph -->
-[![Activity](https://github-readme-activity-graph.vercel.app/graph?username=ajay7906&custom_title=System%20Activity%20Matrix&theme=matrix&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</details>
 </div>
 
-<!-- Connection Protocols -->
-## `[ COMMUNICATION_CHANNELS ]`
-<div align="center">
+---
 
-[![LinkedIn](https://img.shields.io/badge/TARGET:-LinkedIn-%231DA1F2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajaykumarcse)
-[![Twitter](https://img.shields.io/badge/PROTOCOL:-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Ajay_Saini_7906)
-[![Instagram](https://img.shields.io/badge/CHANNEL:-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ajay7906saini/)
-[![Email](https://img.shields.io/badge/SECURE_LINE:-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aks969014@gmail.com)
+### `[ Tech_Stack ]:`
 
-</div>
-
-<!-- Support Protocol -->
-## `[ SUPPORT_OPERATIONS ]`
-<div align="center">
-
-```bash
-[~] Initiating Support Protocol...
-[+] Support Channel Found:
+```css
+skills.load({
 ```
-[!["Buy Me A Coffee"](https://img.shields.io/badge/Support_Development-Activate-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ajay7906)
+
+<div align="left">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Nest.js](https://img.shields.io/badge/Nest.js-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white)
+
+```css
+});
+```
 
 </div>
 
-<!-- Visitor Counter -->
+---
+
+### `[ Support_My_Work ]:`
+```css
+if (youLikeMyWork) {
+```
+<a href="https://www.buymeacoffee.com/ajay7906">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
+</a>
+```css
+}
+```
+
+---
+
 <div align="center">
+  
+![Matrix Rain](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
-```python
-# Initialize Visitor Counter
-class VisitorCounter:
-    def __init__(self):
-        self.count = 0
-    
-    def increment(self):
-        self.count += 1
-        return f"Visitor Count: {self.count}"
-```
-![Visitor Count](https://komarev.com/ghpvc/?username=ajay7906&color=00ff00&style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=ajay7906&label=Profile%20Views&color=00ff00&style=flat" alt="Profile Views" />
 
 </div>
-
-<!-- Footer -->
-```bash
-[*] Connection Terminated
-[+] Session Logged
-[>] System Shutdown Sequence Initiated...
-```
