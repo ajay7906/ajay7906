@@ -126,7 +126,18 @@ skills.load({
 });
 ```
 
-</div>
+</div>  
+
+### 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Building AI-Powered Applications with React](https://your-blog-url)
+- [Best Practices for MERN Stack Development](https://your-blog-url)
+<!-- BLOG-POST-LIST:END -->
+
+### 🎓 Certifications
+- AWS Certified Developer
+- MongoDB Certified Developer
+- Mern Stack Certified Developer 
 
 ---
 
