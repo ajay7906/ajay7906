@@ -7,7 +7,21 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=%7B+%22specialty%22%3A+%22MERN+Stack+Developer%22+%7D;%7B+%22status%22%3A+%22Building+AI-powered+applications%22+%7D;%7B+%22mode%22%3A+%22Always+Learning%2C+Never+Stopping%22+%7D)](https://git.io/typing-svg)
 
-</div>
+</div> 
+
+
+
+### 🛠️ Development Environment
+
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+
+
+
+
+
 
 ---
 
