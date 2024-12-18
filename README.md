@@ -66,6 +66,10 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Hostinger VPS](https://img.shields.io/badge/Hostinger_VPS-FF9900?style=for-the-badge&logo=hostinger&logoColor=white)
+
+*Deployed multiple websites using Hostinger VPS and other hosting platforms, focusing on performance, scalability, and security.*
+
 
 ### `[ Design Tools ]`
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
