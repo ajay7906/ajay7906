@@ -174,4 +174,13 @@ if (youLikeMyWork) {
 
 <img src="https://komarev.com/ghpvc/?username=ajay7906&label=Profile%20Views&color=00ff00&style=flat" alt="Profile Views" />
 
-</div>
+</div>   
+
+
+
+
+### `[ Repository Activity ]`
+![Ajay's Activity Graph](https://activity-graph.herokuapp.com/graph?username=ajay7906&theme=react-dark&hide_border=true&area=true)
+
+### `[ Contribution Details ]`
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajay7906&bg_color=0D1117&color=5BCDEC&line=89bd0f&point=FFFFFF&hide_border=true" />
