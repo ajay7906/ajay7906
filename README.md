@@ -176,7 +176,12 @@ if (youLikeMyWork) {
 
 </div>   
 
+<a href="https://github.com/ajay7906">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajay7906&show_icons=true&theme=cyberpunk&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true"/>
+</a>    
 
+### `[ Contribution Calendar ]`
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ajay7906&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ### `[ Repository Activity ]`
