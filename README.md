@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![Hacker Banner](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
 
 # `> Hello World.exe, I'm Ajay Kumar_`
 ### `{ "role": "Full Stack Developer", "location": "India" }`
@@ -43,6 +43,8 @@
 ### `[ Frontend Development ]`
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3068B7?style=for-the-badge&logo=zod&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
