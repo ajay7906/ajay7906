@@ -5,7 +5,7 @@
 # `> Hello World.exe, I'm Ajay Kumar_`
 ### `{ "role": "Software Developer", "location": "Delhi" }`
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=%7B+%22specialty%22%3A+%22MERN+Stack+Developer%22+%7D;%7B+%22status%22%3A+%22Building+AI-powered+applications%22+%7D;%7B+%22mode%22%3A+%22Always+Learning%2C+Never+Stopping%22+%7D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=700&lines=%7B+%22specialty%22%3A+%22MERN+Stack+%2B+React+Native+Developer%22+%7D;%7B+%22status%22%3A+%22Building+AI-powered+%26+Agentic+Apps%22+%7D;%7B+%22learning%22%3A+%22Generative+AI+%2F+LangChain+%2F+MCP%22+%7D;%7B+%22mode%22%3A+%22Always+Learning%2C+Never+Stopping%22+%7D)](https://git.io/typing-svg)
 
 </div> 
 
@@ -18,26 +18,24 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-
-
-
-
-
-
-
 ---
 
 ### `[ Current Focus ]`
-<img src="https://img.shields.io/badge/AI%20Applications-8A2BE2?style=for-the-badge&logo=artificial-intelligence&logoColor=white"/>
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-8A2BE2?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![DSA in Java](https://img.shields.io/badge/DSA%20in%20Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### `[ Learning ]`
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 ### `[ Programming Languages ]`
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
 
 ### `[ Frontend Development ]`
@@ -51,6 +49,23 @@
 ![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
 ![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge&logo=shadcn&logoColor=white)
 
+### `[ Mobile Development ]`
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+
+*Built a React Native field-collection app with real-time location tracking (Google Routes API v2), background sync, and multi-state visit lifecycle management.*
+
+### `[ Generative & Agentic AI ]`
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+
+*Exploring LLM fundamentals (tokenization, BPE), RAG pipelines, LangChain/LangGraph agents, and Model Context Protocol (MCP) — building toward production-ready agentic applications.*
 
 ### `[ Backend Development ]`
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -60,24 +75,24 @@
 ### `[ Database ]`
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### `[ Real-time ]`
+### `[ Real-time & Queues ]`
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-000000?style=for-the-badge&logo=websocket&logoColor=white)
-
+![BullMQ](https://img.shields.io/badge/BullMQ-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### `[ DevOps ]`
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Hostinger VPS](https://img.shields.io/badge/Hostinger_VPS-FF9900?style=for-the-badge&logo=hostinger&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-00C853?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-
 *Deployed multiple websites using Hostinger VPS and other hosting platforms, focusing on performance, scalability, and security.*
-
 
 ### `[ Design Tools ]`
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -130,13 +145,18 @@ skills.load({
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/React%20Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Nest.js](https://img.shields.io/badge/Nest.js-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ```css
 });
@@ -144,16 +164,10 @@ skills.load({
 
 </div>  
 
-### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Building AI-Powered Applications with React](https://your-blog-url)
-- [Best Practices for MERN Stack Development](https://your-blog-url)
-<!-- BLOG-POST-LIST:END -->
-
 ### 🎓 Certifications
 - AWS Certified Developer
 - MongoDB Certified Developer
-- Mern Stack Certified Developer 
+- MERN Stack Certified Developer 
 
 ---
 
@@ -181,7 +195,6 @@ if (youLikeMyWork) {
 <a href="https://github.com/ajay7906">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajay7906&show_icons=true&theme=cyberpunk&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true"/>
 </a>    
-
 
 ### `[ Repository Activity ]`
 ![Ajay's Activity Graph](https://activity-graph.herokuapp.com/graph?username=ajay7906&theme=react-dark&hide_border=true&area=true)
