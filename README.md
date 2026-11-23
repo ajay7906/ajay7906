@@ -1,203 +1,89 @@
-<div align="center">
-  
+> Hello World.exe, I'm Ajay Kumar_
 
+{ "role": "Full Stack & Mobile App Developer", "experience": "2 Years", "location": "Gurgaon / Delhi NCR, India" }
 
-# `> Hello World.exe, I'm Ajay Kumar_`
-### `{ "role": "Software Developer", "location": "Delhi" }`
+Typing SVG
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=700&lines=%7B+%22specialty%22%3A+%22MERN+Stack+%2B+React+Native+Developer%22+%7D;%7B+%22status%22%3A+%22Building+AI-powered+%26+Agentic+Apps%22+%7D;%7B+%22learning%22%3A+%22Generative+AI+%2F+LangChain+%2F+MCP%22+%7D;%7B+%22mode%22%3A+%22Always+Learning%2C+Never+Stopping%22+%7D)](https://git.io/typing-svg)
+[ About_Me ]
 
-</div> 
+Full Stack & Mobile App Developer with 2 years of production experience building scalable fintech, healthcare, and real-time applications at Credin (Dec 2025 – Present) and Lifelayer Health Solutions Pvt. Ltd. (Dec 2024 – Nov 2025).
 
+Backend & Performance: Cut legal Excel upload processing from 80s to 30s, built an async document upload service handling 100+ concurrent files, and improved MongoDB aggregation report speed by 30%.
 
+Real-Time & Mobile: Engineered Socket.io + BullMQ + Redis chat and notification pipelines (cutting latency by 40%) and contributed to production React Native field-collection apps with real-time tracking, Android background services, and PTP/payment flows.
 
-### 🛠️ Development Environment
+AI & Automation: Integrated OpenAI APIs to automate website generation from hours to under 2 minutes and built AI-based PDF analysis and summary workflows for legal case documents.
 
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+[ Tech_Stack ]
 
----
+Languages
 
-### `[ Current Focus ]`
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-8A2BE2?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![DSA in Java](https://img.shields.io/badge/DSA%20in%20Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+Frontend & Mobile
 
-### `[ Learning ]`
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+Backend, Real-Time & Databases
 
-### `[ Programming Languages ]`
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+Generative & Agentic AI (Building & Exploring)
 
-### `[ Frontend Development ]`
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3068B7?style=for-the-badge&logo=zod&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
-![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge&logo=shadcn&logoColor=white)
+DevOps & Tools
 
-### `[ Mobile Development ]`
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+[ Featured_Projects ]
 
-*Built a React Native field-collection app with real-time location tracking (Google Routes API v2), background sync, and multi-state visit lifecycle management.*
+Project
 
-### `[ Generative & Agentic AI ]`
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+Highlights
 
-*Exploring LLM fundamentals (tokenization, BPE), RAG pipelines, LangChain/LangGraph agents, and Model Context Protocol (MCP) — building toward production-ready agentic applications.*
+Tech Stack
 
-### `[ Backend Development ]`
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+Live
 
-### `[ Database ]`
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+Full-Stack Startup Website (GNT India)
 
-### `[ Real-time & Queues ]`
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-000000?style=for-the-badge&logo=websocket&logoColor=white)
-![BullMQ](https://img.shields.io/badge/BullMQ-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+Dual auth, admin panel, payment integration, Dialogflow chatbot, OpenAI automated site creation (< 2 min)
 
-### `[ DevOps ]`
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Hostinger VPS](https://img.shields.io/badge/Hostinger_VPS-FF9900?style=for-the-badge&logo=hostinger&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-00C853?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+React.js, Node.js, Express.js, MySQL, Tailwind CSS, OpenAI API, Nginx
 
-*Deployed multiple websites using Hostinger VPS and other hosting platforms, focusing on performance, scalability, and security.*
+Live
 
-### `[ Design Tools ]`
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+Smart Delivery & Restaurant System
 
-### `[ Contact ]`
-<a href="mailto:aks969014@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+3-role MERN platform (Customer, Shop Owner, Delivery Partner) with live tracking, OTP/image verification & Google Maps API
 
-<div align="center">
-  
-### `[ System Status ]`
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajay7906&show_icons=true&theme=cyberpunk&hide_border=true&bg_color=0D1117)](https://github.com/ajay7906)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajay7906&layout=compact&theme=cyberpunk&hide_border=true&bg_color=0D1117)](https://github.com/ajay7906)
+MongoDB, Express.js, React.js, Node.js, Socket.io, Google Maps API
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ajay7906&theme=cyberpunk&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+Live
 
-### `[ Achievement Unlocked ]`
-[![Trophy](https://github-profile-trophy.vercel.app/?username=ajay7906&theme=matrix&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+TestSync – Real-Time Exam Platform
 
-</div>
+Self-assessment, timed tests, real-time analytics, and Socket.io two-user live sessions
 
----
+React, Node.js, Express, MongoDB, Socket.io
 
-### `[ Connect_With_Me ]:`
-<div align="left">
+Live
 
-```css
-network.connect({
-```
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajaykumarcse)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Ajay_Saini_7906)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ajay7906saini/)
-```css
-});
-```
+Story Sharing System
 
-</div>
+Full-stack story publishing & content management with WebSocket live sessions
 
----
+React, Node.js, Express, MongoDB, Socket.io
 
-### `[ Tech_Stack ]:`
+Live
 
-```css
-skills.load({
-```
+E-Commerce Web Application
 
-<div align="left">
+Product catalog, cart management, and Stripe checkout integration
 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/React%20Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Nest.js](https://img.shields.io/badge/Nest.js-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+React, Node.js, Firebase, Stripe, Bootstrap
 
-```css
-});
-```
+Live
 
-</div>  
+[ Education_&_Certifications ]
 
-### 🎓 Certifications
-- AWS Certified Developer
-- MongoDB Certified Developer
-- MERN Stack Certified Developer 
+B.Tech in Computer Science — Dr. APJ Abdul Kalam Technical University (2024, CGPA: 7.0/10)
 
----
+DSA & MERN Stack Development — Cuvette
 
-### `[ Support_My_Work ]:`
-```css
-if (youLikeMyWork) {
-```
-<a href="https://www.buymeacoffee.com/ajay7906">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
-</a>
-```css
-}
-```
+Full Stack Development Internship (6 Months) — Cuvette Tech (Sept 2023 – Mar 2024) · Certificate
 
----
+[ System_Status ]
 
-<div align="center">
-  
-![Matrix Rain](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
-
-<img src="https://komarev.com/ghpvc/?username=ajay7906&label=Profile%20Views&color=00ff00&style=flat" alt="Profile Views" />
-
-</div>   
-
-<a href="https://github.com/ajay7906">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajay7906&show_icons=true&theme=cyberpunk&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true"/>
-</a>    
-
-### `[ Repository Activity ]`
-![Ajay's Activity Graph](https://activity-graph.herokuapp.com/graph?username=ajay7906&theme=react-dark&hide_border=true&area=true)
-
-### `[ Contribution Details ]`
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajay7906&bg_color=0D1117&color=5BCDEC&line=89bd0f&point=FFFFFF&hide_border=true" />
+GitHub Streak
